@@ -1,0 +1,11 @@
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\bin\Debug\net6.0\Application.dll
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.dll
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\fatti\Desktop\Yazlab2.0\Chat_AI\Application\obj\Debug\net6.0\ref\Application.dll
